@@ -19,28 +19,74 @@ Name      : Dreat
 Role      : UI Designer
 Stack     : Web Developer
 Specialty : WhatsApp Bot Developer
+```
 
-"Building modern interfaces, powerful websites, and smart automation."
+> **"Building modern interfaces, powerful websites, and smart automation."**
 
-⚙️ Tech Stack
-<div align="center"> <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,python,mongodb,git,github,vscode&theme=dark" /> </div>
-🌐 Connect With Me
-<div align="center"> <a href="https://youtube.com/@x535v"> <img src="https://img.shields.io/badge/YouTube-@x535v-000000?style=for-the-badge&logo=youtube&logoColor=white"/> </a> <a href="https://t.me/nosurend"> <img src="https://img.shields.io/badge/Telegram-@nosurend-404040?style=for-the-badge&logo=telegram&logoColor=white"/> </a> <a href="https://tiktok.com/@ynwhry"> <img src="https://img.shields.io/badge/TikTok-@ynwhry-FFFFFF?style=for-the-badge&logo=tiktok&logoColor=black"/> </a> </div>
-📊 GitHub Stats
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dreat&show_icons=true&theme=tokyonight&hide_border=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreat&layout=compact&theme=tokyonight&hide_border=true"/> </div>
-🔥 GitHub Streak
-<div align="center"> <img src="https://streak-stats.demolab.com?user=dreat&theme=tokyonight&hide_border=true"/> </div>
-🐍 Contribution Snake
-<div align="center"> <img src="https://raw.githubusercontent.com/dreat/dreat/output/github-contribution-grid-snake-dark.svg" /> </div>
+---
+
+## ⚙️ Tech Stack
+
 <div align="center">
-⚫ CODE • CREATE • INNOVATE ⚪
 
-"Turning ideas into reality through code."
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,python,mongodb,git,github,vscode&theme=dark" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://youtube.com/@x535v">
+<img src="https://img.shields.io/badge/YouTube-@x535v-000000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://t.me/nosurend">
+<img src="https://img.shields.io/badge/Telegram-@nosurend-404040?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+<a href="https://tiktok.com/@ynwhry">
+<img src="https://img.shields.io/badge/TikTok-@ynwhry-FFFFFF?style=for-the-badge&logo=tiktok&logoColor=black"/>
+</a>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dreat&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreat&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=dreat&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚫ CODE • CREATE • INNOVATE ⚪
+
+*"Turning ideas into reality through code."*
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
-⭐ Always Learning
-🚀 Always Building
-💡 Always Innovating
+⭐ **Always Learning**  
+🚀 **Always Building**  
+💡 **Always Innovating**
 
 </div>
