@@ -84,5 +84,5 @@ Specialty : WhatsApp Bot Developer
 *"Turning ideas into reality through code."*
 
 ━━━━━━━━━━━━━━━━━━━━━━
-⭐ ⭐ ⭐ ⭐ ⭐
+
 </div>
