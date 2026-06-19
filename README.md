@@ -1,40 +1,46 @@
-<div align="center">⚫ D R E A T ⚪
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=UI+Designer;Web+Developer;WhatsApp+Bot+Developer" /><br>"Profile Views" (https://komarev.com/ghpvc/?username=dreat&label=PROFILE+VIEWS&color=808080&style=for-the-badge)
+# ⚫ D R E A T ⚪
 
-</div>---
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=UI+Designer;Web+Developer;WhatsApp+Bot+Developer;Building+Modern+Digital+Experiences" />
 
-🎭 About Me
+<br>
 
-⚫ Name      : Dreat
-⚪ Role      : UI Designer
-🔘 Stack     : Web Developer
-⚫ Specialty : WhatsApp Bot Developer
+<img src="https://komarev.com/ghpvc/?username=dreat&label=PROFILE+VIEWS&color=808080&style=for-the-badge" />
 
-«"Building modern interfaces, powerful websites, and smart automation."»
+</div>
 
 ---
 
+## 🎭 About Me
+
+```yaml
+Name      : Dreat
+Role      : UI Designer
+Stack     : Web Developer
+Specialty : WhatsApp Bot Developer
+
+"Building modern interfaces, powerful websites, and smart automation."
+
 ⚙️ Tech Stack
-
-<p align="center"><img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,python,git,github,vscode" /></p>---
-
+<div align="center"> <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,python,mongodb,git,github,vscode&theme=dark" /> </div>
 🌐 Connect With Me
-
-<p align="center"><a href="https://youtube.com/@x535v">
-<img src="https://img.shields.io/badge/YouTube-@x535v-111111?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a><a href="https://t.me/nosurend">
-<img src="https://img.shields.io/badge/Telegram-@nosurend-808080?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a><a href="https://tiktok.com/@ynwhry">
-<img src="https://img.shields.io/badge/TikTok-@ynwhry-FFFFFF?style=for-the-badge&logo=tiktok&logoColor=black"/>
-</a></p>---
-
+<div align="center"> <a href="https://youtube.com/@x535v"> <img src="https://img.shields.io/badge/YouTube-@x535v-000000?style=for-the-badge&logo=youtube&logoColor=white"/> </a> <a href="https://t.me/nosurend"> <img src="https://img.shields.io/badge/Telegram-@nosurend-404040?style=for-the-badge&logo=telegram&logoColor=white"/> </a> <a href="https://tiktok.com/@ynwhry"> <img src="https://img.shields.io/badge/TikTok-@ynwhry-FFFFFF?style=for-the-badge&logo=tiktok&logoColor=black"/> </a> </div>
 📊 GitHub Stats
-
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=dreat&show_icons=true&theme=dark"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreat&layout=compact&theme=dark"/></p>---
-
-<div align="center">⚫ CODE • CREATE • INNOVATE ⚪
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dreat&show_icons=true&theme=tokyonight&hide_border=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreat&layout=compact&theme=tokyonight&hide_border=true"/> </div>
+🔥 GitHub Streak
+<div align="center"> <img src="https://streak-stats.demolab.com?user=dreat&theme=tokyonight&hide_border=true"/> </div>
+🐍 Contribution Snake
+<div align="center"> <img src="https://raw.githubusercontent.com/dreat/dreat/output/github-contribution-grid-snake-dark.svg" /> </div>
+<div align="center">
+⚫ CODE • CREATE • INNOVATE ⚪
 
 "Turning ideas into reality through code."
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+⭐ Always Learning
+🚀 Always Building
+💡 Always Innovating
 
 </div>
