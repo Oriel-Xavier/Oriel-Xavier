@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚫ D R E A T ⚪
+# ⚫ X 5 2 5 V ⚪
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=UI+Designer;Web+Developer;WhatsApp+Bot+Developer;Building+Modern+Digital+Experiences" />
 
@@ -79,14 +79,10 @@ Specialty : WhatsApp Bot Developer
 
 <div align="center">
 
-## ⚫ CODE • CREATE • INNOVATE ⚪
+## ⚫ P R I N S I P ⚪
 
 *"Turning ideas into reality through code."*
 
 ━━━━━━━━━━━━━━━━━━━━━━
-
-⭐ **Always Learning**  
-🚀 **Always Building**  
-💡 **Always Innovating**
-
+⭐ ⭐ ⭐ ⭐ ⭐
 </div>
